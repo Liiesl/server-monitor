@@ -1,0 +1,4 @@
+nuitka-template.bash
+/dist/
+/__pycache__/
+*.pyc
